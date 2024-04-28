@@ -1,4 +1,4 @@
-[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
+
 # Module 1 - Quiz
 ____
 ## Which specific cloud computing feature helps businesses serve their customers without service interruption and in a cost-effective way? Select the correct answer.

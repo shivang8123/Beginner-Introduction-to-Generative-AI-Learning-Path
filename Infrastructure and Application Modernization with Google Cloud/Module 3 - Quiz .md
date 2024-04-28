@@ -1,4 +1,4 @@
-[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
+
 # Module - 3 Quiz 
 ____
 ## What is the function of APIs? Select the correct answer.

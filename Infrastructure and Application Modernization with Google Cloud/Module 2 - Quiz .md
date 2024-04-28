@@ -1,4 +1,4 @@
-[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
+
 # Module 2 - Quiz 
 ____
 ## What is App Engine? Select the correct answer.

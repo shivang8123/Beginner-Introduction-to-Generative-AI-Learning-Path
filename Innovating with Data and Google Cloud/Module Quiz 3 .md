@@ -1,4 +1,4 @@
-[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
+
 # Module 3: Quiz
 ____
 ## One characteristic of high quality, bug-free data is that it has coverage. What are the other two qualities? Select the two correct answers.

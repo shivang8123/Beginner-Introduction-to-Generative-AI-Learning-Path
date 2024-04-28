@@ -1,4 +1,4 @@
-[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
+
 # Module 1: Quiz
 ____
 ## What primary factors contribute to the complexity of calculating the total cost of ownership (TCO) when migrating to the cloud? Select the two correct answers.

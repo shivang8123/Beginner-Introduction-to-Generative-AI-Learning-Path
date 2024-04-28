@@ -1,4 +1,4 @@
-FJPGJ
+FJP
 ### You want to organize documents into distinct groups, without predefining the groups. Which type of machine learning model should you use?
 ```Unsupervised learning model```
 ____

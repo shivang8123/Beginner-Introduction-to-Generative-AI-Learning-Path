@@ -1,4 +1,4 @@
-[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
+
 # Module Quiz 2
 ____
 ## Lydia manages a large hotel chain. How can Looker enable Lydia to better serve her customers? Select the correct answer.

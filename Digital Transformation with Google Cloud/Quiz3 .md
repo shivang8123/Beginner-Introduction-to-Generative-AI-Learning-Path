@@ -1,5 +1,5 @@
 
-[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
+
 # Quiz3
 ____
 ## An organization wants to move their collaboration software to the cloud, but due to limited IT staff one of their main drivers is having low maintenance needs. Which cloud computing model would best suit their requirements?

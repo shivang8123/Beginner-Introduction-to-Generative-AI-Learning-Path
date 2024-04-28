@@ -1,4 +1,4 @@
-# [Generative AI Fundamentals](https://www.cloudskillsboost.google/course_templates/556)
+
 ____
 ### What are some benefits of prompt tuning? (Select 2)
 ```Helps large language models (LLMs) generate more accurate responses``` <br>

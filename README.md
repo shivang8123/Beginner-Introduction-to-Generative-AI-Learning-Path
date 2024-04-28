@@ -1,1 +1,1 @@
-# Introduction-to-Large-Language-Models
+Beginner: Introduction to Generative AI Learning Path

@@ -1,4 +1,4 @@
-[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@CloudHustlers)
+
 # Module 3: Quiz
 ____
 ## The tools included in Google Cloud’s operations suite fall into what two major categories? Select two correct answers.

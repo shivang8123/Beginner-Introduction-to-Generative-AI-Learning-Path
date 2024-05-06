@@ -1,4 +1,4 @@
-gggg
+gg
 # Introduction to Large Language Models: Quiz
 ____
 ## What are some of the benefits of using large language models (LLMs)?

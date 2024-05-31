@@ -1,4 +1,4 @@
-uyguy80g07
+uyguy80g0
 ### What are some benefits of prompt tuning? (Select 2)
 ```Helps large language models (LLMs) generate more accurate responses``` <br>
 ```Enables large language models (LLMs) to adapt to a wide range of tasks``` 
